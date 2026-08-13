@@ -15,7 +15,7 @@ I enjoy turning ideas into real projects, understanding how systems work, and le
 * ⚙️ Exploring **Node.js, React Native, APIs and databases**
 * 🧩 Interested in backend development and software architecture
 * 🎓 Built the backend and database of my TCC project, **Oblivio**
-* 🎮 Gamer and occasional Minecraft modpack survivor
+* 🎮 Gamer
 * 📚 Interested in technology, philosophy and the questions between them
 
 ---
