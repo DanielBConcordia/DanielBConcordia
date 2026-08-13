@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Denyel
+# 👋 Hey, I'm Daniel
 
 > 💻 Developer in progress. 🌙 Still becoming.
 
